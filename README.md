@@ -1,6 +1,6 @@
 # Creative pages
 
-This page displays my LinkedIn and GitHub page along with my personal website pages 
+# This page displays my LinkedIn and GitHub page along with my personal website pages 
 
   -Basic design for desktop and mobile devices
   
